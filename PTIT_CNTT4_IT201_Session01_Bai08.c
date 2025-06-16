@@ -20,3 +20,4 @@ int main() {
     printf("phan tu xuat hien nhieu nhat: %d",x);
     return 0;
 }
+// do phuc tap O(n)
